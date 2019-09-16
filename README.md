@@ -1,2 +1,0 @@
-# TrafficLight
-Created with CodeSandbox
